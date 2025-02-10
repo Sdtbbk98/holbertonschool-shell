@@ -1,4 +1,4 @@
-Readme.md added
+Readme.md about shell_permission done in Holbertonschool Lille by sadat babak
 
 file: 0-iam_betty => switch the current user to betty. i used (su username(betty)) command to switch user.
 
