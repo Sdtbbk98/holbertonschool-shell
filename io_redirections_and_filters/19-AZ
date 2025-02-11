@@ -1,0 +1,2 @@
+#!/bin/bash
+tr [cut A,c] [Z,e]
