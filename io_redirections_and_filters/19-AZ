@@ -1,2 +1,2 @@
 #!/bin/bash
-tr [cut A,c] [Z,e]
+tr A,c Z,e
